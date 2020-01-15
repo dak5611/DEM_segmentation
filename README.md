@@ -1,6 +1,6 @@
 # DEM_segmentation
 
-In this repo, we implement a Unet model with data preprocessing for segmenting geographical feature such as waterways on Ditial Elevation Maps (DEM).
+In this repo, we implement a Unet model with data preprocessing for segmenting geomorphic features such as waterways on Ditial Elevation Models (DEM).
 
 ## Setup
 
